@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InshortsV1</string>
+    <string name="enter_movie">\"\"</string>
+    <string name="search">\"\"</string>
+    <string name="Enter_Movie_Name">Enter Movie Name</string>
+    <string name="title_activity_sample_trial">Sample_trial</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="Popular">Popular Movies</string>
+    <string name="Nowshowing">Now Showing</string>
+</resources>
